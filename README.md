@@ -20,7 +20,7 @@
 ## My Accounts 👩‍💻
 Description | Link
 -|-
-Blog (studies in ML, DL, CV, NLP, Unity, pet-projects) | <p align="center"> <a href="https://github.com/doprealing"> <img src="https://img.shields.io/badge/doprealing-D71868?style=for-the-badge&logo=github&logoColor=white" alt="doprealing"/> </a> </p>
+Studies in ML, DL, CV, NLP, Unity, pet-projects | <p align="center"> <a href="https://github.com/doprealing"> <img src="https://img.shields.io/badge/doprealing-D71868?style=for-the-badge&logo=github&logoColor=white" alt="doprealing"/> </a> </p>
 XR (ML + AR/MR pet-projects) | <p align="center"> <a href="https://github.com/linnxr"> <img src="https://img.shields.io/badge/linnXR-232323?style=for-the-badge&logo=github&logoColor=white" alt="linnXR"/> </a> </p>
 Doprealing blog | <p align="center"> <a href="https://t.me/doprealing"> <img src="https://img.shields.io/badge/Doprealing-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white" alt="Doprealing"/> </a> </p>
 
