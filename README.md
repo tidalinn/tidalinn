@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Hobby-Working | Coding | Reading-blue" />
 <img src="https://img.shields.io/badge/Programming-Python-blue" />
 <img src="https://img.shields.io/badge/Lives-Russia-blue" />
-<img src="https://img.shields.io/badge/Languages-English | Deutsch | 汉语 | 한국어-blue" />
+<img src="https://img.shields.io/badge/Languages-English | Deutsch | 汉语 | 한국어 | Latin-blue" />
 </p>
 
 ### Hello there! Welcome to my profile 👋
