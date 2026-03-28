@@ -1,19 +1,21 @@
 # tidalinn
 
 <p>
-<img src="https://img.shields.io/badge/Interest-XR + ML-blue"/>
-<img src="https://img.shields.io/badge/Hobby-Working | Coding | Reading-blue" />
-<img src="https://img.shields.io/badge/Programming-Python-blue" />
-<img src="https://img.shields.io/badge/Lives-Russia-blue" />
-<img src="https://img.shields.io/badge/Languages-English | Deutsch | 汉语 | 한국어 | Latina-blue" />
+<img src="https://img.shields.io/badge/Role-Full_stack_Engineer-blue"/>
+<img src="https://img.shields.io/badge/Project-Cinematic_Narrative-blueviolet" />
+<img src="https://img.shields.io/badge/Tech-Python | Unity | Blender-blue" />
+<img src="https://img.shields.io/badge/Languages-English | Deutsch | 汉语 | 한국어 | Latin-blue" />
+<img src="https://img.shields.io/badge/Location-Russia-blue" />
 </p>
 
-### Hello there! Welcome to my profile 👋
+### Hello there! I'm a Full stack Engineer by day & Narrative Game Developer by night 👋
 
-🔭 My research interests are:
-- Hand/foot/POV-tracking for MR
-- 3D Semantic Scene Graph
-- ML in AR/VR
+Currently, I work in a small, agile team where I wear many hats — from architecting **Back-end** and **Front-end** to deploying **ML/DL models** and managing **Servers**. This multi-disciplinary environment has shaped me into a "Swiss Army Knife" developer, capable of handling a project's entire lifecycle — the capability I value the most.
+
+- 🔭 **Professional Background:** Years of experience in Python. Deep interest in System Architecture, XR, and ML/DL.
+- 💻 **Current Passion:** Developing my first commercial **Choice-driven Cinematic Narrative** in my spare time. I’m building a world where player choices lead to significant, branching consequences.
+- 💡 **Personal Philosophy:** I’m a perpetual learner, always exploring new tech stacks. I believe in robust logic and value architectural integrity in everything I build.
+- 📚 **Linguistics:** I enjoy studying languages (EN, DE, CN, KR, LA) as a way to understand different cultures and ways of thinking.
 
 <br>
 
