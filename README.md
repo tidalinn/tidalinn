@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Location-Russia-blue" />
 </p>
 
-### Hello there! I'm a Full stack Engineer by day & Narrative Game Developer by night 👋
+## Hello there! I'm a Full stack Engineer by day & Narrative Game Developer by night 👋
 
 Currently, I work in a small, agile team where I wear many hats — from architecting **Back-end** and **Front-end** to deploying **ML/DL models** and managing **Servers**. This multi-disciplinary environment has shaped me into a "Swiss Army Knife" developer, capable of handling a project's entire lifecycle — the capability I value the most.
 
@@ -17,170 +17,51 @@ Currently, I work in a small, agile team where I wear many hats — from archite
 - 💡 **Personal Philosophy:** I’m a perpetual learner, always exploring new tech stacks. I believe in robust logic and value architectural integrity in everything I build.
 - 📚 **Linguistics:** I enjoy studying languages (EN, DE, CN, KR, LA) as a way to understand different cultures and ways of thinking.
 
-<br>
+---
 
-## My Accounts 👩‍💻
-Description | Link
--|-
-Studies in ML, DL, CV, NLP, Unity, pet-projects | <p align="center"> <a href="https://github.com/doprealing"> <img src="https://img.shields.io/badge/doprealing-D71868?style=for-the-badge&logo=github&logoColor=white" alt="doprealing"/> </a> </p>
-XR (ML + AR/MR pet-projects) | <p align="center"> <a href="https://github.com/linnxr"> <img src="https://img.shields.io/badge/linnXR-232323?style=for-the-badge&logo=github&logoColor=white" alt="linnXR"/> </a> </p>
-Doprealing blog | <p align="center"> <a href="https://t.me/doprealing"> <img src="https://img.shields.io/badge/Doprealing-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white" alt="Doprealing"/> </a> </p>
-
-<br>
-
-## My Skills 💎
-
-### ML
+### Languages & Core
 
 <div align="left">
-  <table>
-    <tr>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://github.com/latticetower/pytorch-lightning/blob/master/docs/source/_images/logos/lightning_logo-large.svg"/> </td>
-    </tr>
-    <tr> 
-      <td align="center" width=120>Python</td>
-      <td align="center" width=120>NumPy</td>
-      <td align="center" width=120>Pandas</td>
-      <td align="center" width=120>OpenCV</td>
-      <td align="center" width=120>Matplotlib</td>
-      <td align="center" width=120>Scikit-learn</td>
-      <td align="center" width=120>PyTorch</td>
-      <td align="center" width=120>PyTorch Lightning</td>
-    </tr>
-    <tr>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://github.com/clearml/clearml/blob/master/docs/clearml-logo.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"/> </td>
-      <td align="center" width=120>  </td>
-    </tr>
-    <tr> 
-      <td align="center" width=120>Keras</td>
-      <td align="center" width=120>ClearML</td>
-      <td align="center" width=120>PostgreSQL</td>
-      <td align="center" width=120>ApacheSpark</td>
-      <td align="center" width=120>MySQL</td>
-      <td align="center" width=120>HuggingFace</td>
-      <td align="center" width=120>Kaggle</td>
-      <td align="center" width=120></td>
-    </tr>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" />
 </div>
 
-### Deploy
+### Machine Learning & Data
 
 <div align="left">
-  <table>
-    <tr>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/> </td>
-    </tr>
-    <tr> 
-      <td align="center" width=120>GitHub</td>
-      <td align="center" width=120>GitLab</td>
-      <td align="center" width=120>Cmake</td>
-      <td align="center" width=120>Pytest</td>
-      <td align="center" width=120>Docker</td>
-      <td align="center" width=120>Redis</td>
-      <td align="center" width=120>RabbitMQ</td>
-      <td align="center" width=120>FastAPI</td>
-    </tr>
-    <tr>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg"/> </td>
-      <td align="center" width=120>  </td>
-    </tr>
-    <tr>
-      <td align="center" width=120>Flask</td>
-      <td align="center" width=120>ElasticSearch</td>
-      <td align="center" width=120>Kibana</td>
-      <td align="center" width=120>Grafana</td>
-      <td align="center" width=120>Nginx</td>
-      <td align="center" width=120>bash</td>
-      <td align="center" width=120>Powershell</td>
-      <td align="center" width=120></td>
-    </tr>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" alt="pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="35" alt="keras" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35" alt="opencv" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgres" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql" />
+  <img src="https://github.com/clearml/clearml/blob/master/docs/clearml-logo.svg" height="35" alt="clearml" />
 </div>
 
-### 3D
+### GameDev & 3D
 
 <div align="left">
-  <table>
-    <tr>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/> </td>
-    </tr>
-    <tr> 
-      <td align="center" width=120>Unity</td>
-      <td align="center" width=120>C#</td>
-      <td align="center" width=120>Blender</td>
-    </tr>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender" />
 </div>
 
-### Other
+### Backend & Infrastructure
 
 <div align="left">
-  <table>
-    <tr>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> </td>
-    </tr>
-    <tr> 
-      <td align="center" width=120>C++</td>
-      <td align="center" width=120>Android Studio</td>
-      <td align="center" width=120>Kotlin</td>
-      <td align="center" width=120>HTML5</td>
-      <td align="center" width=120>CSS3</td>
-      <td align="center" width=120>JavaScript</td>
-      <td align="center" width=120>VueJS</td>
-    </tr>
-  </table>
-</div>
-
-### Tools
-
-<div align="left">
-  <table>
-    <tr>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> </td>
-      <td align="center" width=120> <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"/> </td>
-    </tr>
-    <tr> 
-      <td align="center" width=120>VSCode</td>
-      <td align="center" width=120>Visual Studio</td>
-      <td align="center" width=120>Jupyter Notebook</td>
-      <td align="center" width=120>Anaconda</td>
-    </tr>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="35" alt="nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="35" alt="rabbitmq" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="35" alt="pytest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="35" alt="grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="35" alt="gitlab" />
 </div>
