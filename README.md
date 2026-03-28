@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Role-Full_stack_Engineer-blue"/>
 <img src="https://img.shields.io/badge/Project-Cinematic_Narrative-blueviolet" />
 <img src="https://img.shields.io/badge/Tech-Python | Unity | Blender-blue" />
-<img src="https://img.shields.io/badge/Languages-English | Deutsch | 汉语 | 한국어 | Latin-blue" />
+<img src="https://img.shields.io/badge/Languages-English | Deutsch | 汉语 | 한국어 | Latina-blue" />
 <img src="https://img.shields.io/badge/Location-Russia-blue" />
 </p>
 
